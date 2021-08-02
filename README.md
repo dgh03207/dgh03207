@@ -3,12 +3,12 @@
 ### ✨ MyCareer
 
 
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------|:--------|:--------|:--------|
-| **:mortar_board: Education** | 2021. 05  ~  ing | :computer: Web | **SSAFY** |
-| **🏢 Work** | 2020. 03 ~ 2021. 02 | :computer: Web Crawler | **MachineBox & KPU** |
-| **🌏 External Activity** | 2019. 08 ~ 2020. 02 | :airplane: Exchange Student | **INSA strasbourg** |
-| **:mortar_board: Education** | 2016. 03  ~  2021. 08 | :computer: Computer Engineering | **KPU** |
+ >| **Type** | **Date** | **Contents** | **Organization** |
+  |:--------|:--------|:--------|:--------|
+  | **:mortar_board: Education** | 2021. 05  ~  ing | :computer: Web | **SSAFY** |
+  | **🏢 Work** | 2020. 03 ~ 2021. 02 | :computer: Web Crawler | **MachineBox & KPU** |
+  | **🌏 External Activity** | 2019. 08 ~ 2020. 02 | :airplane: Exchange Student | **INSA strasbourg** |
+  | **:mortar_board: Education** | 2016. 03  ~  2021. 08 | :computer: Computer Engineering | **KPU** |
 
 ### 🛠 Tech Stack 🛠
 
