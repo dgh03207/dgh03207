@@ -11,10 +11,11 @@
   | **:mortar_board: Education** | 2016. 03  ~  2021. 08 | :computer: Computer Engineering | **KPU** |
 
 ### 🛠 Tech Stack 🛠
-
+#### Language
 ><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 
 
 
