@@ -1,12 +1,12 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=AYeongLee&fontSize=90&animation=blink)
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=AYeongLee&fontSize=90&animation=blink)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dgh03207)](https://github.com/anuraghazra/github-readme-stats)
 
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dgh03207@gmail.com)
-
+ -->
 
  
 <!--
