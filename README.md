@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Ayeong&fontSize=55&fontAlignY=45&fontAlign=75&animation=twinkling)
 
-## ✨ MyCareer
+### ✨ MyCareer
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------|:--------|:--------|:--------|
 | **:books: Education** | 2021. 05  ~  ing | :computer: Web | **SSAFY** |
 | **🏢 Work** | 2020. 03 ~ 2021. 02 | :computer: Web Crawler | **MachineBox** |
-| **:books: Education** | 2019. 08 ~ 2020. 2 | :airplane: Exchange Student | **INSA** |
+| **:books: Education** | 2019. 08 ~ 2020. 2 | :airplane: Exchange Student | **INSA** |&nasp;&nasp;
 
-
-## 🛠 Tech Stack 🛠
+### 🛠 Tech Stack 🛠
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp 
@@ -20,7 +19,7 @@
 <!-- ##
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dgh03207)](https://github.com/anuraghazra/github-readme-stats)
  -->
-## 📫Contact
+### 📫Contact
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dgh03207@gmail.com)
 <!-- 
