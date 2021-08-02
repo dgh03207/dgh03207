@@ -3,7 +3,7 @@
 ### ✨ MyCareer
 
 
- >| **Type** | **Date** | **Contents** | **Organization** |
+  | **Type** | **Date** | **Contents** | **Organization** |
   |:--------|:--------|:--------|:--------|
   | **:mortar_board: Education** | 2021. 05  ~  ing | :computer: Web | **SSAFY** |
   | **🏢 Work** | 2020. 03 ~ 2021. 02 | :computer: Web Crawler | **MachineBox & KPU** |
