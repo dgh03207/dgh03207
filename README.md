@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Ayeong&fontSize=55&fontAlignY=45&fontAlign=75&animation=twinkling&fontColor )
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Ayeong&fontSize=55&fontAlignY=50&fontAlign=75&animation=twinkling&fontColor )
 
 ### ✨ MyCareer
 
