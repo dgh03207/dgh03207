@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Ayeong&fontSize=55&fontAlignY=50&fontAlign=75&animation=twinkling&fontColor )
 
+## AboutMe
+[이아영의 포트폴리오](https://erratic-monkey-fd0.notion.site/01f25e80fa4f4c83854ca4629718470e)
+
 ## ✨ MyCareer
 
 
